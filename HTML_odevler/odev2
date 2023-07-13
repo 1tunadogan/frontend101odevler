@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Hakkıma</title>
+</head>
+<body>
+<!-- en büyük başlık kısmı -->
+<h1>Tunahan Doğan</h1>
+<!-- Hakkımda ufak bir açıklama -->
+<h3>Hakkımda</h3>
+<p>Merhaba, Ben Tunahan Doğan! Kocaelide yaşıyorum. Kodluyoruz eğitimi harika ilerliyor.</p>
+<div>
+  <h3>İlgi Alanlarım</h3>
+  <ol><b>Filmler</b>
+    <li><a href="https://www.imdb.com/title/tt6723592/" target="_blank">Tenet</a></li>
+    <li><a href="https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_pul" target="_blank">Ucuz Roman</a></li>
+    <li><a href="https://www.imdb.com/title/tt0137523/?ref_=tt_sims_tt_t_1" target="_blank">Fight Club</a></li>
+  </ol>
+  <ol><b>Diziler</b>
+    <li><a href="https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_succe" target="_blank">Succesion</a></li>
+    <li><a href="https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_3_tt_4_nm_4_q_brea" target="_blank">Breaking Bad</a></li>
+    <li><a href="https://www.imdb.com/title/tt0475784/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_westw" target="_blank">Westworld</a></li>
+  </ol>
+  <ol><b>Kitaplar</b>
+    <li>Kuyucaklı Yusuf</li>
+    <li>Nutuk</li>
+    <li>İnsan Ne ile Yaşar</li>
+  </ol>
+  <h2>Favori Dizim:</h2>
+  <h4>Breaking Bad</h4>
+  <img src="https://ntvb.tmsimg.com/assets/p8696131_b_h10_aa.jpg?w=960&h=540" alt="Breaking Bad" width="600" height="400">
+  <p>Breaking Bad, Vince Gilligan tarafından tasarlanmış Amerikan suç draması televizyon dizisidir. Dizide, üstün yetenekli olmasına rağmen geçimini sağlamakta zorlanan lise kimya öğretmeni Walter White, üçüncü evre akciğer kanseri olduğunu öğrenir</p>
+</div>
+</body>
+</html>
