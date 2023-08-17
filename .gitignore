@@ -1,9 +1,0 @@
-# Node.js
-node_modules/
-
-# WebStorm
-.idea/
-
-# Diğer geçici dosyalar ve klasörler
-.vscode/
-.DS_Store
