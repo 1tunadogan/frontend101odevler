@@ -1,2 +1,2 @@
-# frontend101odevler
-Kodluyoruz Eğitimi kapsamında açtığım, ödevleri barındıran repo
+# Frontend 101
+"Başlangıç Seviye Frontend Web Development Patikası" kapsamında açtığım, ödevleri barındıran repo
